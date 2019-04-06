@@ -144,6 +144,12 @@ Bahdanau, D., Cho, K., & Bengio, Y. (2015). Neural Machine Translation by Jointl
 Vaswani, A., & Uszkoreit, J. (2017). Attention Is All You Need. In NIPS. Retrieved from <http://nlp.seas.harvard.edu/2018/04/03/attention.html>
 
 
+### Background Material
+
+* <http://jalammar.github.io/illustrated-transformer/>
+
+
+
 ## 08 Memory
 
 **Main:**
@@ -175,6 +181,10 @@ Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of
 Tenney, I., Xia, P., Chen, B., Wang, A., Poliak, A., Mccoy, R. T., … Pavlick, E. (2019). What do you learn from context? Probing for sentence structure in contextualized word representations. In ICLR 2019 (pp. 1–17).
 
 Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2018). Language Model and Unsupervised Multitask Learning.
+
+### Background Material
+
+* <http://jalammar.github.io/illustrated-bert>
 
 
 ## 11 Multitask II
