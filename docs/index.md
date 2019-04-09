@@ -14,7 +14,7 @@ nav_order: 1
 | Office Hours | Tuesday, 5-6pm |
 | Class Hours  | Tuesday, 2-4pm            |
 | Class Room   |                           |
-| Class Website| <http://github.org/something>
+| Class Website| <https://compling-potsdam.github.io/sose19-am11-nlp-highlights/>
 
 
 
