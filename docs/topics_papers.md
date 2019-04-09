@@ -9,7 +9,7 @@ nav_order: 3
 
 We're basically following the structure of this nice [Review of the Neural History of NLP](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/) by Sebastian Ruder. That blogpost provides a useful narrative around the individual papers that we will discuss (as well as some useful links to background resources, so be sure to read it first).
 
-
+You should be able to find all of the papers just by dropping the title into the search engine of your choice. But do make sure that you actually get the version specified here. Sometimes there are conference paper versions and later journal paper versions with the same title.
 
 
 ## 01 Language Modelling with Neural Networks
