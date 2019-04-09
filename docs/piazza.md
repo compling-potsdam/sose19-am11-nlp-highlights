@@ -6,4 +6,4 @@ nav_order: 5
 
 # Discussions
 
-.. via <http://piazza.org>
+.. via <https://piazza.com/uni-potsdam.de/spring2019/msccogsysam11am12/home>
