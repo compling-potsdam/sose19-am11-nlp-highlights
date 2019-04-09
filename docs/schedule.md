@@ -11,7 +11,7 @@ See [here](../topics_papers) for the papers for each topic.
 
 | Week | Date | Presenter(s) | Topic / Paper|
 |:------:|:------:|-----------|------|
-| 01  | 2019-04-09  |   | Introduction
+| 01  | 2019-04-09  | David Schlangen   | [Introduction](https://github.com/compling-potsdam/sose19-am11-nlp-highlights/blob/master/material/01_intro/01_highlights19.pdf)
 | 02  | 2019-04-16  |   | Quick Intro to Neural Networks
 | 03  | 2019-04-23  |   | Language Modelling			
 | 04  | 2019-04-30  |   | Multitask Learning			
