@@ -19,11 +19,11 @@ We're basically following the structure of this nice [Review of the Neural Histo
 
 **Main:**
 
-Bengio, Y., Ducharme, R., Vincent, P., & Janvin, C. (2003). A Neural Probabilistic Language Model. The Journal of Machine Learning Research, 3, 1137–1155. <http://doi.org/10.1162/153244303322533223>
+Bengio, Y., Ducharme, R., Vincent, P., & Janvin, C. (2003). A Neural Probabilistic Language Model. The Journal of Machine Learning Research, 3, 1137–1155. 
 
 **Background:**
 
-Bengio, Y., Ducharme, R., & Vincent, P. (2001). A neural probabilistic language model. In NIPS. <http://doi.org/10.1039/c5ra24597d>
+Bengio, Y., Ducharme, R., & Vincent, P. (2001). A neural probabilistic language model. In NIPS. 
 
 
 
@@ -32,11 +32,12 @@ Bengio, Y., Ducharme, R., & Vincent, P. (2001). A neural probabilistic language 
 
 **Main:**
 
-Graves, A. (2013). Generating sequences with recurrent neural networks. ArXiv Preprint ArXiv:1308.0850, 1–43. Retrieved from <http://arxiv.org/abs/1308.0850>
+Graves, A. (2013). Generating sequences with recurrent neural networks. ArXiv Preprint ArXiv:1308.0850, 1–43. 
 
 **Background:**
 
-Melis, G., Dyer, C., & Blunsom, P. (2018). On the State of the Art of Evaluation in Neural Language Models. In ICLR (pp. 1–10). <http://doi.org/10.1016/j.biocontrol.2004.02.008>
+Melis, G., Dyer, C., & Blunsom, P. (2018). On the State of the Art of Evaluation in Neural Language Models. In ICLR (pp. 1–10). 
+
 
 ### Background Material
 
@@ -48,11 +49,11 @@ Melis, G., Dyer, C., & Blunsom, P. (2018). On the State of the Art of Evaluation
 
 **Main:**
 
-Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural Language Processing (Almost) from Scratch. Journal of Machine Learning Research, 12, 2461–2505. Retrieved from <http://dl.acm.org/citation.cfm?id=2078186%5Cnhttp://infoscience.epfl.ch/record/192375/files/Collobert_JMLR_2493--2537.pdf>
+Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). Natural Language Processing (Almost) from Scratch. Journal of Machine Learning Research, 12, 2461–2505. 
 
 **Background:**
 
-Collobert, R., & Weston, J. (2008). A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning. In ICML. <http://doi.org/10.1145/1390156.1390177>
+Collobert, R., & Weston, J. (2008). A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning. In ICML. 
 
 
 ## 03 Word Representations
@@ -61,11 +62,11 @@ Collobert, R., & Weston, J. (2008). A Unified Architecture for Natural Language 
 
 **Main:**
 
-Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient Estimation of Word Representations in Vector Space. In ICLR (pp. 1–12). <http://doi.org/10.1162/153244303322533223>
+Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient Estimation of Word Representations in Vector Space. In ICLR (pp. 1–12). 
 
 **Background:**
 
-Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Distributed Representations of Words and Phrases and their Compositionality. In NIPS (pp. 1–9). <http://doi.org/10.1162/jmlr.2003.3.4-5.951>
+Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Distributed Representations of Words and Phrases and their Compositionality. In NIPS (pp. 1–9). 
 
 Levy, O., & Goldberg, Y. (2014). Neural Word Embedding as Implicit Matrix Factorization. In NIPS 2014 (pp. 1–9).
 
@@ -75,7 +76,7 @@ Levy, O., & Goldberg, Y. (2014). Neural Word Embedding as Implicit Matrix Factor
 
 **Main:**
 
-Ruder, S., Vulić, I., & Søgaard, A. (2017). A Survey Of Cross-lingual Word Embedding Models. ArXiv, 1–55. Retrieved from <http://arxiv.org/abs/1706.04902>
+Ruder, S., Vulić, I., & Søgaard, A. (2017). A Survey Of Cross-lingual Word Embedding Models. ArXiv, 1–55. 
 
 
 ### Background Material
@@ -90,16 +91,16 @@ Ruder, S., Vulić, I., & Søgaard, A. (2017). A Survey Of Cross-lingual Word Emb
 
 **Main 1:**
 
-Kalchbrenner, N., Grefenstette, E., & Blunsom, P. (2014). A Convolutional Neural Network for Modelling Sentences. In ACL (pp. 655–665). http://doi.org/10.3115/v1/P14-1062
+Kalchbrenner, N., Grefenstette, E., & Blunsom, P. (2014). A Convolutional Neural Network for Modelling Sentences. In ACL (pp. 655–665). 
 
 **Background 1:**
 
-Kalchbrenner, N., Espeholt, L., Simonyan, K., Oord, A. van den, Graves, A., & Kavukcuoglu, K. (2016). Neural Machine Translation in Linear Time. ArXiv. Retrieved from http://arxiv.org/abs/1610.10099
+Kalchbrenner, N., Espeholt, L., Simonyan, K., Oord, A. van den, Graves, A., & Kavukcuoglu, K. (2016). Neural Machine Translation in Linear Time. ArXiv. 
 
 
 **Main 2:**
 
-Kim, Y. (2014). Convolutional Neural Networks for Sentence Classification. In EMNLP. http://doi.org/10.1109/CLEI.2017.8226381
+Kim, Y. (2014). Convolutional Neural Networks for Sentence Classification. In EMNLP. 
 
 
 ## 05 Trees
@@ -110,25 +111,25 @@ Kim, Y. (2014). Convolutional Neural Networks for Sentence Classification. In EM
 
 Socher, R., Perelygin, A., Wu, J. Y., Chuang, J., Manning, C. D., Ng, A. Y., & Potts, C. (2013). Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank. In EMNLP 2013.
 
-Tai, K. S., Socher, R., & Manning, C. D. (2006). Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. In ACL. http://doi.org/10.3115/v1/P15-1150
+Tai, K. S., Socher, R., & Manning, C. D. (2006). Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. In ACL. 
 
 
 ### RNN Grammars
 
 **Main:**
 
-Dyer, C., Kuncoro, A., Ballesteros, M., & Smith, N. A. (2016). Recurrent Neural Network Grammars. In NAACL (pp. 199–209). <http://doi.org/10.18653/v1/N16-1024>
+Dyer, C., Kuncoro, A., Ballesteros, M., & Smith, N. A. (2016). Recurrent Neural Network Grammars. In NAACL (pp. 199–209). 
 
 **Background:**
 
-Kuncoro, A., Ballesteros, M., Kong, L., Dyer, C., Neubig, G., & Smith, N. A. (2017). What Do Recurrent Neural Network Grammars Learn About Syntax? In EACL (Vol. 1, pp. 1249–1258). <http://doi.org/10.1162/coli_a_00001>
+Kuncoro, A., Ballesteros, M., Kong, L., Dyer, C., Neubig, G., & Smith, N. A. (2017). What Do Recurrent Neural Network Grammars Learn About Syntax? In EACL (Vol. 1, pp. 1249–1258). 
 
 
 ## 06 Sequence to Sequence
 
-Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to Sequence Learning with Neural Networks. In NIPS 2014 (p. 9). Computation and Language; Learning. Retrieved from  <http://arxiv.org/abs/1409.3215>
+Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to Sequence Learning with Neural Networks. In NIPS 2014 (p. 9). Computation and Language; Learning. 
 
-Gillick, D., Brunk, C., Vinyals, O., & Subramanya, A. (2016). Multilingual Language Processing From Bytes. In NAACL (pp. 1296–1306). Retrieved from <http://arxiv.org/abs/1512.00103>
+Gillick, D., Brunk, C., Vinyals, O., & Subramanya, A. (2016). Multilingual Language Processing From Bytes. In NAACL (pp. 1296–1306).
 
 
 
@@ -136,12 +137,12 @@ Gillick, D., Brunk, C., Vinyals, O., & Subramanya, A. (2016). Multilingual Langu
 
 **Main:**
 
-Bahdanau, D., Cho, K., & Bengio, Y. (2015). Neural Machine Translation by Jointly Learning to Align and Translate. In ICLR 2015 (pp. 1–15). <http://doi.org/10.1146/annurev.neuro.26.041002.131047>
+Bahdanau, D., Cho, K., & Bengio, Y. (2015). Neural Machine Translation by Jointly Learning to Align and Translate. In ICLR 2015 (pp. 1–15). 
 
 
 **Main:**
 
-Vaswani, A., & Uszkoreit, J. (2017). Attention Is All You Need. In NIPS. Retrieved from <http://nlp.seas.harvard.edu/2018/04/03/attention.html>
+Vaswani, A., & Uszkoreit, J. (2017). Attention Is All You Need. In NIPS. 
 
 
 ### Background Material
@@ -161,9 +162,11 @@ Kumar, A., Irsoy, O., Su, J., Bradbury, J., English, R., Pierce, B., … Socher,
 
 **Main:**
 
-Blevins, T., Levy, O., & Zettlemoyer, L. (2018). Deep RNNs Encode Soft Hierarchical Syntax. In ACL (pp. 14–19). Retrieved from <http://arxiv.org/abs/1805.04218>
+Blevins, T., Levy, O., & Zettlemoyer, L. (2018). Deep RNNs Encode Soft Hierarchical Syntax. In ACL (pp. 14–19).
 
-Kuncoro, A., Dyer, C., Hale, J., Yogatama, D., Clark, S., & Blunsom, P. (2018). LSTMs Can Learn Syntax-Sensitive Dependencies Well, But Modeling Structure Makes Them Better. Proceedings of the 56st Annual Meeting of the Association for Computational Linguistics, 1–11. Retrieved from <http://aclweb.org/anthology/P18-1132>
+
+Kuncoro, A., Dyer, C., Hale, J., Yogatama, D., Clark, S., & Blunsom, P. (2018). LSTMs Can Learn Syntax-Sensitive Dependencies Well, But Modeling Structure Makes Them Better. Proceedings of the 56st Annual Meeting of the Association for Computational Linguistics, 1–11.
+
 
 
 ## 10 Sesame Street (Massive Pretraining for Word and Sentence Representations)
@@ -171,9 +174,9 @@ Kuncoro, A., Dyer, C., Hale, J., Yogatama, D., Clark, S., & Blunsom, P. (2018). 
 
 **Main:**
 
-Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). Deep contextualized word representations. In NAACL 2018 (pp. 2227–2237). http://doi.org/10.18653/v1/N18-1202
+Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). Deep contextualized word representations. In NAACL 2018 (pp. 2227–2237). 
 
-Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. ArXiv. <http://doi.org/arXiv:1811.03600v2>
+Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. ArXiv. 
 
 
 **Background:**
@@ -190,8 +193,8 @@ Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2018). La
 
 ## 11 Multitask II
 
-Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S. R. (2019). GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding. In ICLR 2019 (pp. 1–20). Retrieved from <http://arxiv.org/abs/1804.07461>
+Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S. R. (2019). GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding. In ICLR 2019 (pp. 1–20). Retrieved from 
 
-Ruder, S., Bingel, J., Augenstein, I., & Søgaard, A. (2019). Latent Multi-task Architecture Learning. In AAAI 2019. Retrieved from <http://arxiv.org/abs/1705.08142>
+Ruder, S., Bingel, J., Augenstein, I., & Søgaard, A. (2019). Latent Multi-task Architecture Learning. In AAAI 2019. Retrieved from 
 
 
