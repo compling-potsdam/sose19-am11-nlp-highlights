@@ -185,6 +185,7 @@ Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2018). La
 ### Background Material
 
 * <http://jalammar.github.io/illustrated-bert>
+* [BERT slides by lead author](https://nlp.stanford.edu/seminar/details/jdevlin.pdf)
 
 
 ## 11 Multitask II
