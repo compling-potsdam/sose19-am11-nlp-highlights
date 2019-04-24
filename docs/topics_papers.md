@@ -19,7 +19,7 @@ You should be able to find all of the papers just by dropping the title into the
 
 **Main:**
 
-Bengio, Y., Ducharme, R., Vincent, P., & Janvin, C. (2003). A Neural Probabilistic Language Model. The Journal of Machine Learning Research, 3, 1137–1155. 
+Bengio, Y., Ducharme, R., Vincent, P., & Janvin, C. (2003). A Neural Probabilistic Language Model. The Journal of Machine Learning Research, 3, 1137–1155. **Selected for Week 03.**
 
 **Background:**
 
@@ -32,7 +32,7 @@ Bengio, Y., Ducharme, R., & Vincent, P. (2001). A neural probabilistic language 
 
 **Main:**
 
-Graves, A. (2013). Generating sequences with recurrent neural networks. ArXiv Preprint ArXiv:1308.0850, 1–43. 
+Graves, A. (2013). Generating sequences with recurrent neural networks. ArXiv Preprint ArXiv:1308.0850, 1–43. **Selected for Week 04.**
 
 **Background:**
 
