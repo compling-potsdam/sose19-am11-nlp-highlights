@@ -1,6 +1,6 @@
 ---
 title: Imprint
-nav_order: 4
+nav_order: 6
 layout: default
 ---
 
@@ -19,7 +19,7 @@ E-Mail: david.schlangen@uni-potsdam.de
 
 # Haftungsausschluss
 
-Die Inhalte dieser Seiten wurden mit größtmöglicher Sorgfalt erstellt. Dennoch kann keine Gewähr übernommen werden für dAktualität, Richtigkeit, Vollständigkeit und Qualität der Inhalte.
+Die Inhalte dieser Seiten wurden mit größtmöglicher Sorgfalt erstellt. Dennoch kann keine Gewähr übernommen werden für Aktualität, Richtigkeit, Vollständigkeit und Qualität der Inhalte.
 
 Die Webseite enthält Verknüpfungen zu Webseiten Dritter (externe Links). Diese Webseiten unterliegen ausschließlich der Haftung der jeweiligen Betreiber, so dass der Anbieter für diese fremden Inhalte keine Gewähr übernimmt. Er hat keinen Einfluss auf den Inhalt externer Links. Trotz sorgfältiger inhaltlicher Kontrolle zum Zeitpunkt der Verlinkung übernehme ich keine Haftung für die Inhalte externer Links. Sie stellen kein Angebot von mir dar.
 
