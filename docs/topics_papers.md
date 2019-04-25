@@ -62,13 +62,14 @@ Collobert, R., & Weston, J. (2008). A Unified Architecture for Natural Language 
 
 **Main:**
 
-Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient Estimation of Word Representations in Vector Space. In ICLR (pp. 1–12). 
+Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient Estimation of Word Representations in Vector Space. In ICLR (pp. 1–12). **Selected for Week 05.**
 
 **Background:**
 
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Distributed Representations of Words and Phrases and their Compositionality. In NIPS (pp. 1–9). 
 
 Levy, O., & Goldberg, Y. (2014). Neural Word Embedding as Implicit Matrix Factorization. In NIPS 2014 (pp. 1–9).
+
 
 
 
@@ -83,6 +84,8 @@ Ruder, S., Vulić, I., & Søgaard, A. (2017). A Survey Of Cross-lingual Word Emb
 
 * <http://ruder.io/word-embeddings-1/>
 * <http://ruder.io/word-embeddings-2017/>
+* <https://jalammar.github.io/illustrated-word2vec/>
+* this is already textbook material, so many of the textbooks mentioned on the syllabus page will have sections on this model
 
 
 
