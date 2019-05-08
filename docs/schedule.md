@@ -16,7 +16,7 @@ See [here](../topics_papers) for the papers for each topic.
 | 03  | 2019-04-23  | *all*  | Language Modelling			
 | 04  | 2019-04-30  | Geethu B. (Graves 2013) | RNNs for Language Modelling [Presenter Slides](https://github.com/compling-potsdam/sose19-am11-nlp-highlights/blob/master/material/04_rnns/Generating_Sequences_with_Recurrent_NN_v2.pdf)
 | 05  | 2019-05-07  | Nina H. (Mikolov et al. 2013)  | Word Representations
-| 06  | 2019-05-14  | *all*  | Convolutional Networks for NLP
+| 06  | 2019-05-14  | Liubov K. (Kalchbrenner et al. 2014) | Convolutional Networks for NLP
 | 07  | 2019-05-21  | Bethany T. (Socher et al. 2013)  | Trees
 | 08  | 2019-05-28  |   | *no class, travel*
 | 09  | 2019-06-04  | Patrick K. (Sustkever et al. 2014)  | Seq2Seq
