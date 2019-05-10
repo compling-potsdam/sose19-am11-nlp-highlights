@@ -105,6 +105,10 @@ Kalchbrenner, N., Espeholt, L., Simonyan, K., Oord, A. van den, Graves, A., & Ka
 
 Kim, Y. (2014). Convolutional Neural Networks for Sentence Classification. In EMNLP. 
 
+**Background:**
+
+- <http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/>
+
 
 ## 05 Trees
 
