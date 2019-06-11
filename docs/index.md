@@ -52,7 +52,7 @@ This seminar is part of module AM11 (or module AM12), which is worth 6 credit po
 
 ### Grading Policy
 
-The exam is a "Portfolioprüfung", combining the grade for the class and the grade for an essay (of around 20 pages) with equal weights.
+The exam is a "Portfolioprüfung", combining the grade for the class and the grade for an essay (of around 20, generously spaced, pages) with equal weights.
 
 #### Grading Policy, Class
 
@@ -99,7 +99,7 @@ There is an unfortunate tendency in the recent NLP literature to be ignorant of 
 
 In this field, there are many people that write helpful blog posts explaining stuff, some of which we will see during the course (and some of which have become legendary, like Karpathy's RNN post, or Olah's LSTM explainer). Think of this as a possible audience for your essay.
 
-
+Deadline for handing in the essay is **September 15, 2019** (unless you apply for an extension well in advance, and for good reasons).
 
 ### Attendance Policy
 
