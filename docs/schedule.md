@@ -24,5 +24,5 @@ See [here](../topics_papers) for the papers for each topic.
 | 11  | 2019-06-18  | Raheleh T. (Vaswani et al. 2017) | Attention II
 | 12  | 2019-06-25  | Tim P. (Blevins et al. 2018)  | What do they even learn? | [Material](https://github.com/compling-potsdam/sose19-am11-nlp-highlights/blob/master/material/12_analysis)
 | 13  | 2019-07-02  |  | *buffer*
-| 14  | 2019-07-09  | Maya A. (Devlin et al. 2018)  | Sesame Street | [Task for next week](https://github.com/compling-potsdam/sose19-am11-nlp-highlights/blob/master/material/14_bert/task_final_class.md)
+| 14  | 2019-07-09  | Maya A. (Devlin et al. 2018)  | Sesame Street | [Material, Task](https://github.com/compling-potsdam/sose19-am11-nlp-highlights/blob/master/material/14_bert)
 | 15  | 2019-07-16  |   | Wrap Up
